@@ -8,9 +8,29 @@ The goal is to push out a new version once per week or two weeks. This is not a 
 
 #### How do the modpack version numbers work?
 
-- **X**.Y.Z stands for major versions which directly map to Minecraft's 1.**Y**.Z (1.16 was 1, 1.17 was 2 etc)
-- X.**Y**.Z stands for minor versions which may map to Minecraft's 1.Y.**Z** or just refer to bigger changes like added mods
-- X.Y.**Z** stands for patch versions - no breaking changes, no mod additions/removals
+##### Full Versioning:
+
+- **X**.Y.Z. (up: B.C) stands for major versions which directly map to Minecraft's 1.**Y**.Z (1.16 was 1, 1.17 was 2 etc); this directly maps to upstream's major version
+- X.**Y**.Z. (up: B.C) stands for minor versions which directly map to Minecraft's 1.Y.**Z** (1.21.1 was 1, 1.21.2 was 2)
+- X.Y.**Z**. (up: B.C) stands for patch versions which refer to bigger changes like mod additions/removals
+- X.Y.Z.**~** (up: B.C) stands for patch versions - no breaking changes, no mod additions/removals; this is hidden when 0
+- X.Y.Z. (up: **B.C**) stands for the upstream version - the major version (A) is excluded as it matches **X**
+_If Fabulously Optimized and upstream are in beta 1:_
+- X.Y.Z.-**beta.1** (up: B.C-**beta.1**)
+_If Fabulously Optimized is in beta 1, and upstream is stable:_
+- X.Y.Z.-**beta.1** (up: B.C)
+
+##### Shortened Versioning:
+
+- **X**.Y.Z.+B.C stands for major versions which directly map to Minecraft's 1.**Y**.Z (1.16 was 1, 1.17 was 2 etc) - major version maps to upstream's major verison
+- X.**Y**.Z.+B.C stands for minor versions which directly map to Minecraft's 1.Y.**Z** (1.21.1 was 1, 1.21.2 was 2)
+- X.Y.**Z**.+B.C stands for patch versions which refers to bigger changes like added mods
+- X.Y.Z.**~**.+B.C stands for patch versions - no breaking changes, no mod additions/removals; this is hidden when 0
+- X.Y.Z.+**B.C** stands for the upstream version - the major version (A) is excluded as it matches **X**
+_If Fabulously Optimized and upstream are in beta 1:_
+- X.Y.Z-**b1**+B.C-**b1**
+_If Fabulously Optimized is in beta 1, and upstream is stable:_
+- X.Y.Z-**b1**+B.C
 
 Here is how you should think about the version types in relation to Minecraft's:
 
