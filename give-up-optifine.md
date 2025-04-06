@@ -1,6 +1,6 @@
 # Included OptiFine Alternatives
 
-One of the goals of Fabulously Optimized is to provide feature parity with [OptiFine](https://optifine.net/home), in order to make it easier for users to transition away from it. So, all you need to do is to [install Fabulously Optimized](install-instructions.md) to get all those mods at once!
+One of the goals of Fabulously Forgified is to provide feature parity with [OptiFine](https://optifine.net/home), in order to make it easier for users to transition away from it. So, all you need to do is to [install Fabulously Forgified](install-instructions.md) to get all those mods at once!
 
 Here is the list of OptiFine features that are supported in this modpack:
 
@@ -29,7 +29,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Smart Leaves¹         | ✔️            | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling)                                                                                                                                                                                                                         |
 | Zoom²                  | ✔️            | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)                                                                                                                                                                                                                                            |
 | Better Grass          | 🚧            | [Fast Better Grass](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Fast%20Better%20Grass) (fancy mode is currently unsupported, [but planned](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/717))  |                                                                                                         |
-| 32+ Render Distance   | ❌             | Available through [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric), but [removed from FO due to platform limits.](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/656)      
+| 32+ Render Distance   | ❌             | Available through [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric), but [removed from FF due to platform limits.](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/656)      
 | Anisotropic Filtering       | ❌             | Not yet possible, check [this Discord discussion](https://discord.com/channels/756612889787498627/876567546390777856/978673913770950687) [(via)](https://discord.gg/7rnTYXu)    ||
 
 ### Custom resource pack features

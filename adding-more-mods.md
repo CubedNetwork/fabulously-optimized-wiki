@@ -9,7 +9,7 @@ This tutorial is with an assumption that you have the pack already installed and
 Method 1:
 
 1. Open CurseForge App
-2. Go to `My Modpacks`, click on Fabulously Optimized
+2. Go to `My Modpacks`, click on Fabulously Forgified
 3. Click on the three dots, select `Profile Options`
 4. Check "Allow content management for this profile", click `Done`
 5. Click 🧩 (puzzle icon)
@@ -21,15 +21,15 @@ Method 2:
 1. [Open CurseForge site](https://www.curseforge.com/minecraft/search?gameVersionTypeId=4), search for a mod compatible with your Minecraft version
 2. On the compatible version, click Install
 3. CurseForge Launcher opens. Click `Select a profile`
-4. Select "Fabulously Optimized", click `Install`
-5. The mod will be added to the FO profile
+4. Select "Fabulously Forgified", click `Install`
+5. The mod will be added to the FF profile
 6. Run the game by clicking `Play`. You should now have the new mod(s) installed!
 
 ### Modrinth App
 
 1. Open Modrinth App
 2. Open `|||\` "Library"
-3. Click on Fabulously Optimized
+3. Click on Fabulously Forgified
 4. Click `+ Install content`
 5. Search for the mod you want
 6. Click `⤓ Install`
@@ -38,7 +38,7 @@ Method 2:
 ### Prism Launcher
 
 1. Open Prism Launcher
-2. Click on Fabulously Optimized, then `Edit`
+2. Click on Fabulously Forgified, then `Edit`
 3. Click on `Mods`, then `Download mods`
 4. Search for the mod you want
 5. Select the mod and click `Select mod for download`. Repeat for any other mods you'd want to add.
@@ -49,7 +49,7 @@ Method 2:
 ### MultiMC/MultiMC (auto-update)
 
 1. Open MultiMC
-2. Click on Fabulously Optimized, then `Instance Folder`
+2. Click on Fabulously Forgified, then `Instance Folder`
 3. Open [Modrinth, set Loader to Fabric](https://modrinth.com/mods?g=categories:%27fabric%27)
 4. Choose any mod you want and go to its _Versions_ page
 5. Click `⤓` on the latest version that is compatible with Fabric and your Minecraft version

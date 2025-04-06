@@ -28,7 +28,7 @@ Before uninstalling the modpack, it is highly recommended to back up the content
 
 1. Open CurseForge App
 2. Go to `My Modpacks`
-3. Right click on Fabulously Optimized
+3. Right click on Fabulously Forgified
 4. Click `🗑️ Delete Profile`
 5. Click `Delete`
 
@@ -36,28 +36,28 @@ Before uninstalling the modpack, it is highly recommended to back up the content
 
 1. Open Modrinth App
 2. Open `|||\` "Library"
-3. Right click on Fabulously Optimized
+3. Right click on Fabulously Forgified
 4. Click `🗑️ Delete`
 5. Click `🗑️ Delete`
 
 ### Prism Launcher
 
 1. Open Prism Launcher
-2. Click on Fabulously Optimized
+2. Click on Fabulously Forgified
 3. Click `🗑️ Delete`
 4. Click `Yes`
 
 ### MultiMC/MultiMC (auto-update)
 
 1. Open MultiMC
-2. Click on Fabulously Optimized
+2. Click on Fabulously Forgified
 3. Click `Delete`
 4. Click `Yes`
 
 ### Minecraft Launcher (vanilla)
 
 1. Open Minecraft Launcher, click on `Installations`
-2. Hover on the `Fabulously Optimized` installation, click 📂
+2. Hover on the `Fabulously Forgified` installation, click 📂
    * If you installed using the manual instructions, you'll instead see a `fabric-loader-x.x.x` installation (where x.x.x refers to the version number).
 3. Delete `mods`, `config` and optionally `resourcepacks` folders
    * If you selected "Use a different `.minecraft` folder for this version?" during the install, your folder path will be `.../.minecraft/fabulously-optimized-x.x.x` instead of just `.../.minecraft`. 

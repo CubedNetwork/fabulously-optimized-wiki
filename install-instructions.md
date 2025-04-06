@@ -1,6 +1,6 @@
 # Install instructions
 
-Here are the instructions to install Fabulously Optimized to various launchers.
+Here are the instructions to install Fabulously Forgified to various launchers.
 
 Can't use Minecraft 1.17 and higher due to hardware limits? [Follow this tutorial](https://gist.github.com/Kichura/9fa44010d8ed9e5733d258292e327001) and then retry.
 
@@ -9,7 +9,7 @@ Can't use Minecraft 1.17 and higher due to hardware limits? [Follow this tutoria
 ### [CurseForge App](https://www.curseforge.com/download/app#download-options)
 
 1. Select _Minecraft_ from the grid or sidebar
-2. Search "Fabulously Optimized"
+2. Search "Fabulously Forgified"
 3. Click `Install`
    * Optional: Select the version you want by instead clicking the row → `Versions` → `⤓`.
 4. To run the modpack, hover on the modpack icon and click `Play`
@@ -28,7 +28,7 @@ Or directly from the website:
 
 App version 0.6.2 or higher required, these instructions are for 0.9.2+.
 
-1. Under "Discover a modpack" section, click on "Fabulously Optimized"
+1. Under "Discover a modpack" section, click on "Fabulously Forgified"
 2. Click `⤓ Install`
    * Optional: Select the version you want by instead clicking the tile → `Versions` → `⤓` on the version you want.
 3. The modpack will now install.
@@ -39,7 +39,7 @@ App version 0.6.2 or higher required, these instructions are for 0.9.2+.
 
 1. Click `Add Instance`
 2. Select `Modrinth` tab from the left
-3. Select "Fabulously Optimized"
+3. Select "Fabulously Forgified"
 4. Click `OK`
    * Optional: Select the version you want by selecting it on the dropdown before you click `OK`.
 5. The modpack will now install.
@@ -57,7 +57,7 @@ App version 0.6.2 or higher required, these instructions are for 0.9.2+.
 8. Launch Prism Launcher from your game library.
 9. Tap `Add Instance`
 10. Select `Modrinth` tab from the left
-11. Select "Fabulously Optimized"
+11. Select "Fabulously Forgified"
 12. Click `OK`
    * Optional: Select the version you want by selecting it on the dropdown before you click `OK`.
 13. The modpack will now install.
@@ -67,7 +67,7 @@ App version 0.6.2 or higher required, these instructions are for 0.9.2+.
 17. The game is now set up and you can just launch it from your game library from now on. 
 18. Bonus: if you want a better icon in your game library, [follow these instructions](https://prismlauncher.org/download/steam-deck/#setting-up-artwork).
 
-P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://old.reddit.com/r/steamdeck) as FO moderators may not have one.
+P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://old.reddit.com/r/steamdeck) as FF moderators may not have one.
 
 ### [MultiMC](https://multimc.org)
 
@@ -75,7 +75,7 @@ You need [Java 21](https://download.fo/java21) to play the game.
 
 1. Click `Add Instance`
 2. Select `Modrinth` tab from the left
-3. Select "Fabulously Optimized"
+3. Select "Fabulously Forgified"
 4. Click `OK`
    * Optional: Select the version you want by selecting it on the dropdown before you click `OK`.
 5. The modpack will now install.
@@ -107,11 +107,11 @@ You need [Java 21](https://download.fo/java21) to play the game.
 
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
-1. Download [Fabulously Optimized Installer](https://download.fo/vanilla) and run it
+1. Download [Fabulously Forgified Installer](https://download.fo/vanilla) and run it
     * Windows: Open the .exe file, click `More info` and then `Run anyway`.
     * macOS: See instructions below
     * Linux: Open the .appimage file and click `Run once` when prompted.
-2. Select preferred FO/Minecraft version and install
+2. Select preferred FF/Minecraft version and install
 3. Run Minecraft Launcher. You'll see the new installation, click PLAY.
 
 <details>
@@ -119,7 +119,7 @@ You need [Java 21](https://download.fo/java21) to play the game.
 
   #### macOS Sequoia 15 and later
   1. Open the downloaded .dmg file
-  2. Double-click the "Fabulously Optimized Installer". You will get a warning, press `Done`.
+  2. Double-click the "Fabulously Forgified Installer". You will get a warning, press `Done`.
   3. On your menubar, press Apple logo, then `System Settings`, then click `Privacy & Security` in the sidebar
   4. Scroll down on the right view, you should see the button `Open anyway`
   5. Enter your password or fingerprint. The installer should open.
@@ -127,7 +127,7 @@ You need [Java 21](https://download.fo/java21) to play the game.
 
   #### macOS Sonoma 14 and older
   1. Open the downloaded .dmg file
-  2. **Right click** the "Fabulously Optimized Installer" and click `Open`
+  2. **Right click** the "Fabulously Forgified Installer" and click `Open`
   3. Click `Open` again when asked in a prompt. The installer should open.
   4. Future launches of the same installer version open the installer directly on double-click.
 
@@ -149,11 +149,11 @@ For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric I
    * If you got a prompt for popup windows or multiple downloads, please accept it - technical limitation.
 4. Open the zip file and copy **all folders** [(why?)](vanilla-launcher-faq.md#so-i-just-copy-the-mods-right) to your _.minecraft_ folder
    * If asked - replace the files.
-5. Recommended: delete `options.txt` to get [FO default settings](changed-options.md)
+5. Recommended: delete `options.txt` to get [FF default settings](changed-options.md)
     * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
     * If you choose not to do this, please at least enable bundled resource packs manually.
 6. Launch the installed Fabric profile
-7. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
+7. If you now see "Fabulously Forgified" in the right bottom corner, you're done!
 
 </details>
 
@@ -170,14 +170,14 @@ For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric I
   4. Click the version you need, then click "Additional files"
   5. Click `⋮` → `Download file` on the latest **MultiMC version**
      * If you see less than 10 mods in the zip, you downloaded the wrong version.  
-  6. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_
+  6. Open the zip file, go to _Fabulously Forgified x.x.x_ > _minecraft_
   7. Open the zip file and copy **all folders** [(why?)](vanilla-launcher-faq.md#so-i-just-copy-the-mods-right) from zip's _minecraft_ folder to your _.minecraft_ folder
      * If asked - replace the files.
-  8. Recommended: delete `options.txt` to get [FO default settings](changed-options.md)
+  8. Recommended: delete `options.txt` to get [FF default settings](changed-options.md)
      * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
      * If you choose not to do this, please at least enable bundled resource packs manually.
   9. Launch the installed Fabric profile
-  10. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
+  10. If you now see "Fabulously Forgified" in the right bottom corner, you're done!
 
 </details>
 
@@ -190,7 +190,7 @@ Due to technical limits and issues, GDLauncher Legacy is no longer supported and
 1. [Install and run Prism Launcher](https://prismlauncher.org/)
 2. Click `Add Instance`
 3. Select `Modrinth` tab from the left
-4. Select "Fabulously Optimized"
+4. Select "Fabulously Forgified"
 5. Click `OK`
 6. The modpack will now install.
 7. Once installed, click the `Folder` button on the left.
@@ -232,7 +232,7 @@ To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
     3. > Old data from PolyMC was found, but you already have existing data for Prism Launcher. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start Prism Launcher?
         * Click `No` and follow manual migration instructions below.
 4. If needed, [update](update-instructions.md#prism-launcher) or [install](install-instructions.md#prism-launcher) the modpack again
-5. To run the modpack, double click the Fabulously Optimized icon
+5. To run the modpack, double click the Fabulously Forgified icon
 
 <details>
   <summary>Manual migration</summary>
@@ -255,7 +255,7 @@ To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
 
 _Not to be confused with [ATLauncher](#atlauncher)._
 
-[TLauncher is malware](https://www.youtube.com/watch?v=SBTH9n6lz9o), so it will never be supported by Fabulously Optimized.
+[TLauncher is malware](https://www.youtube.com/watch?v=SBTH9n6lz9o), so it will never be supported by Fabulously Forgified.
 It is highly recommended to [reset your entire computer](https://www.howtogeek.com/202590/stop-trying-to-clean-your-infected-computer-just-nuke-it-and-reinstall-windows/), then come back to this page and follow install instructions for any supported launcher.
 
 ### Cracked launchers
@@ -271,20 +271,20 @@ Technically you can install it in _some_ other launchers that support CurseForge
 
 ### Other modpacks
 
-Some users have experienced interest in using FO with other, content-focused modpacks. 
+Some users have experienced interest in using FF with other, content-focused modpacks. 
 
 While it is theoretically possible, this is **not advised**:
 
 * mods may have conflicts
-* neither FO or the other modpack will be able to support you
+* neither FF or the other modpack will be able to support you
 
-Instead, we recommend you to use FO with [other mods added by you](adding-more-mods.md).
+Instead, we recommend you to use FF with [other mods added by you](adding-more-mods.md).
 
-If you'd still like to do it on your responsibility, just install the other modpack first and then copy FO's files on top [(see vanilla instructions)](install-instructions.md#minecraft-launcher-vanilla).
+If you'd still like to do it on your responsibility, just install the other modpack first and then copy FF's files on top [(see vanilla instructions)](install-instructions.md#minecraft-launcher-vanilla).
 
 ### Game clients
 
-Fabulously Optimized is not compatible with any "game clients", including "hacked clients" and "PvP clients".
+Fabulously Forgified is not compatible with any "game clients", including "hacked clients" and "PvP clients".
 
 Instead, it is suggested to use this modpack and [add individual features as mods](adding-more-mods.md) that you might be missing from said clients. Here is a list for:
 - [Lunar Client](https://alternatives.microcontrollers.dev/latest/lunar/#17-visuals)
@@ -298,7 +298,7 @@ _Note: these lists are managed by contributors outside this wiki. There can be m
 
 ### Bedrock Edition
 
-Fabulously Optimized is not compatible with Bedrock Edition [or mobile devices in general](install-instructions.md#pojav-launcher). You may be interested in the [VDX resource pack](https://www.curseforge.com/minecraft-bedrock/addons/vdx-legacy-desktop-ui), however.
+Fabulously Forgified is not compatible with Bedrock Edition [or mobile devices in general](install-instructions.md#pojav-launcher). You may be interested in the [VDX resource pack](https://www.curseforge.com/minecraft-bedrock/addons/vdx-legacy-desktop-ui), however.
 
 ## Servers
 
@@ -306,7 +306,7 @@ Any server that works with vanilla Minecraft is supported, no changes are necess
 
 ## Quilt
 
-Fabulously Optimized is based on [Fabric](https://fabricmc.net/), not [Quilt](https://quiltmc.org). 
+Fabulously Forgified is based on [Fabric](https://fabricmc.net/), not [Quilt](https://quiltmc.org). 
 
 It can be attempted to run it through Quilt, but not all mods and configurations work without changes. If you do attempt it, you're on your own - do not ask for support from the modpack.
 

@@ -1,6 +1,6 @@
 # Unofficial FAQ for Minecraft's Player Reporting
 
-This wiki article describes the aspects of player reporting, which is a feature added into Minecraft: Java Edition in 2022. Most of the aspects detail on _chat_ reporting, although later added username and skin reporting are described as well. While the article is in the perspective of [Fabulously Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized), a lot of answered questions are universal and applicable for every user of the game.
+This wiki article describes the aspects of player reporting, which is a feature added into Minecraft: Java Edition in 2022. Most of the aspects detail on _chat_ reporting, although later added username and skin reporting are described as well. While the article is in the perspective of [Fabulously Forgified](https://github.com/Fabulously-Optimized/fabulously-optimized), a lot of answered questions are universal and applicable for every user of the game.
 
 The intent of this article is to educate [good-minded users](#i-already-follow-the-server-rules-am-a-nice-person.-why-should-i-care) about the pitfalls of the newly introduced player reporting system, including important details and answers to questions that [Mojang's official resources](#official-posts) don't provide. 
 
@@ -201,11 +201,11 @@ All videos are suitable for describing the interactions and ethical concerns, bu
 
 _See also: Minecraft Wiki's history sections for [Social Interactions](https://minecraft.wiki/w/Social_interactions#History) and [Chat](https://minecraft.wiki/w/Chat#History)._
 
-## Chat reporting and Fabulously Optimized
+## Chat reporting and Fabulously Forgified
 
 ### What does this modpack do for me?
 
-Fabulously Optimized includes [(why?)](#why-does-fabulously-optimized-take-a-stance-on-the-matter):
+Fabulously Forgified includes [(why?)](#why-does-fabulously-optimized-take-a-stance-on-the-matter):
 - A mod called [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) that:
    - adds new consistent chat indicators
    - disables inconsistent vanilla chat indicators and the annoying toast
@@ -248,7 +248,7 @@ Actually, all you have to do is:
 1. Click ![optional](https://i.ibb.co/hstcjW7/neutral.png) 2 times until it says "Signing mode: **Always**"
 2. Say something
 3. Your message went through and you'll see the ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) icon
-4. Optionally: [report the server IP to Fabulously Optimized](https://fabulously-optimized.github.io/discord), so that it can be fixed for everyone
+4. Optionally: [report the server IP to Fabulously Forgified](https://fabulously-optimized.github.io/discord), so that it can be fixed for everyone
 
 ### Is No Chat Reports itself a risk?
 
@@ -260,18 +260,18 @@ Understandable. If you join a server and see a ![enabled](https://i.ibb.co/2YgMH
 
 In vanilla itself there is no such clear indication as the toast and chat line icons do not accurately work on every server, hence the mod.
 
-### Why does Fabulously Optimized take a stance on the matter?
+### Why does Fabulously Forgified take a stance on the matter?
 
-Fabulously Optimized is not "just a performance pack" or an "OptiFine clone". While these are its core priorities, indeed, the priorities also include [the community itself, privacy and transparency](principles.md).
+Fabulously Forgified is not "just a performance pack" or an "OptiFine clone". While these are its core priorities, indeed, the priorities also include [the community itself, privacy and transparency](principles.md).
 
 When the system was first visibly introduced in 22w24a, [the players were clearly upset](https://old.reddit.com/r/Minecraft/comments/vcz7ou/this_is_getting_out_of_hand_now_there_are_two/). Not only was there zero prior communication about the system - [except the introduction of chat signing](#history-of-changes), which most users didn't think much of at the time - but also within said snapshot and [the next one](#history-of-changes) (supposedly "the last one before 1.19.1") Mojang did not communicate with the users. Not via QnA, no tweets, no help pages. There were practical exploits and ethical concerns which stayed unanswered. [1.19.1-rc.1 removed 3 of the most concerning report categories](#history-of-changes), but still did not communicate with users.
 
-Then they took a step back. Postponed the release by a month to rework the system internally, [made it visually more annoying than before](#history-of-changes) and eventually released 1.19.1. After that, Mojang started working on some help pages to explain the feature in fuller detail. Due to aforementioned concerns and players spreading misinformation, this modpack received a FAQ (which you're reading now) to explain the system as it actually is, while taking a very protective stance in-game. [Step by step](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/376), while discussing with the players and learning more about the feature, Fabulously Optimized changed its stance from "protective" towards "unobtrusive".
+Then they took a step back. Postponed the release by a month to rework the system internally, [made it visually more annoying than before](#history-of-changes) and eventually released 1.19.1. After that, Mojang started working on some help pages to explain the feature in fuller detail. Due to aforementioned concerns and players spreading misinformation, this modpack received a FAQ (which you're reading now) to explain the system as it actually is, while taking a very protective stance in-game. [Step by step](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/376), while discussing with the players and learning more about the feature, Fabulously Forgified changed its stance from "protective" towards "unobtrusive".
 
-After the release of FO 4.2.0 (MC 1.19.2), there were more discussions about the feature, with [users requesting even more neutrality](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/497) from the modpack. By discussing and evaluating the pain points of chat reporting and [Mojang's positive improvements made in 1.19.3](#history-of-changes), a solution was found - [neutral texts and icons](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/499). The resource pack [was released in FO 4.6.0](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md#460-2023-03-24) and separately distributed as of [FO 4.9.0](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md#490-2023-05-02).
+After the release of FF 4.2.0 (MC 1.19.2), there were more discussions about the feature, with [users requesting even more neutrality](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/497) from the modpack. By discussing and evaluating the pain points of chat reporting and [Mojang's positive improvements made in 1.19.3](#history-of-changes), a solution was found - [neutral texts and icons](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/499). The resource pack [was released in FF 4.6.0](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md#460-2023-03-24) and separately distributed as of [FF 4.9.0](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md#490-2023-05-02).
 
 As of Minecraft 1.20.4, Mojang has still not fully [fixed the issues](#why-is-it-controversial) or [the communication](#how-could-mojang-improve-the-system). 
-Therefore, Fabulously Optimized cannot fulfill the [principles of being transparent and prioritizing its users](principles.md) without also giving them [clear indicators](#what-does-this-modpack-do-for-me), honest phrasing and customizable options so that users could make their own decisions about the new feature. It is very important that every user is aware of the system's existence, where and how it works, because it doesn't work everywhere, nor does it align with users' previous expectations of chat in general. At the same time, it is important to reiterate that neither the mod or the resourcepack will actually break any rules or prevent users from reporting if the server prefers it. 
+Therefore, Fabulously Forgified cannot fulfill the [principles of being transparent and prioritizing its users](principles.md) without also giving them [clear indicators](#what-does-this-modpack-do-for-me), honest phrasing and customizable options so that users could make their own decisions about the new feature. It is very important that every user is aware of the system's existence, where and how it works, because it doesn't work everywhere, nor does it align with users' previous expectations of chat in general. At the same time, it is important to reiterate that neither the mod or the resourcepack will actually break any rules or prevent users from reporting if the server prefers it. 
 
 If Mojang will improve their communication or overhaul the system again, it is possible that both the mod and resource pack will be removed from the modpack.
 
@@ -290,7 +290,7 @@ Do what you always did.
 
 ### I am a player. How do I know if chat reporting is enabled?
 
-* If you're using Fabulously Optimized or No Chat Reports with Chat Reporting Helper, [click here.](#what-does-this-modpack-do-for-me)
+* If you're using Fabulously Forgified or No Chat Reports with Chat Reporting Helper, [click here.](#what-does-this-modpack-do-for-me)
 * If you're using just No Chat Reports, [click here.](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Configuration-Files#option-showserversafety)
 * If you the server is very popular, you may find it on the [Official Minecraft Server List](https://findmcserver.com/). In there, look for the existence of the light blue [Beacon of Safety badge](https://findmcserver.com/badges-explained).
 
@@ -323,7 +323,7 @@ No.
 - It is buggy, [1.19.1 fixed several bugs and crashes](https://minecraft.wiki/w/Java_Edition_1.19.1#Fixes)
 - If you want to keep using it just for the sake of protest, remember that [1.19 already has the basis for chat reporting - the chat signatures](#history-of-changes).
 
-If you want to stay on an older version, please use the latest version of Fabulously Optimized for 1.18.2.
+If you want to stay on an older version, please use the latest version of Fabulously Forgified for 1.18.2.
 
 _This section previously claimed that it may be possible for 1.19.1+ players to report 1.19 ones. This turned out to not be the case because [the signing system changed in 1.19.1](https://youtu.be/DobmW1ZUcbQ?t=681)._
 

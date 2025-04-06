@@ -1,6 +1,6 @@
 # Resource pack issues
 
-Fabulously Optimized supports [various OptiFine features](give-up-optifine.md), including resource pack extras. However, the implementation differs from mod to mod and some resource packs are accepted in OptiFine even if they are broken, so this page should help you fix some of those issues.
+Fabulously Forgified supports [various OptiFine features](give-up-optifine.md), including resource pack extras. However, the implementation differs from mod to mod and some resource packs are accepted in OptiFine even if they are broken, so this page should help you fix some of those issues.
 
 ### Older versions
 
@@ -26,7 +26,7 @@ _Or "game brightness beyond 100%"_.
 
 Currently the vanilla resource pack and a direct options.txt edit **do not work**, OptiFine-based resource packs _might work_. Either way, it is recommended to just [add a mod](adding-more-mods.md), such as [Gamma Utils](https://modrinth.com/mod/gamma-utils) or [other simpler ones](https://modrinth.com/mods?q=fullbright&e=client&g=categories:fabric).
 
-Fabulously Optimized does not plan to add "fullbright" methods beyond its current [dynamic lighting](give-up-optifine.md), because it would take away from vanilla gameplay's night vision and may be disallowed on certain servers' rules.
+Fabulously Forgified does not plan to add "fullbright" methods beyond its current [dynamic lighting](give-up-optifine.md), because it would take away from vanilla gameplay's night vision and may be disallowed on certain servers' rules.
 
 ### Invisible blocks
 
@@ -34,7 +34,7 @@ This may occur when the pack is using broken paths and is trying to change the m
 
 #### Enhanced Block Entities
 
-Enhanced Block Entities is the mod that makes various blocks faster on most versions of FO. Some optimizations may not be supported by your resource packs, so here's how to configure it:
+Enhanced Block Entities is the mod that makes various blocks faster on most versions of FF. Some optimizations may not be supported by your resource packs, so here's how to configure it:
 
 1. Click `Mods`
 2. Search for "Enhanced Block Entities", click the config button ![config](https://i.ibb.co/j35cBtn/image.png)
@@ -44,13 +44,13 @@ Enhanced Block Entities is the mod that makes various blocks faster on most vers
 
 #### Better Beds
 
-Some versions of FO include Better Beds instead.
+Some versions of FF include Better Beds instead.
 
 1. Close the game
 2. Remove or disable the Better Beds mod from your launcher.
 3. Start the game and see if it is fixed.
 
-#### FastChest (FO 1.12.3 and older)
+#### FastChest (FF 1.12.3 and older)
 
 1. Click `Mods`
 2. Search for "FastChest", click the config button ![](https://i.ibb.co/j35cBtn/image.png)
@@ -63,11 +63,11 @@ Some versions of FO include Better Beds instead.
 
 Does the resource pack change the UI beyond usual means (e.g. rearrange HUD elements)? 
 
-That means it may depend on [core shaders](getting-shaders.md#core-shaders), which are not fully supported on FO.
+That means it may depend on [core shaders](getting-shaders.md#core-shaders), which are not fully supported on FF.
 
 ### Custom colors
 
-Please ensure you're using FO 5.9.0 or newer; or FO 4.5.7 or older.
+Please ensure you're using FF 5.9.0 or newer; or FF 4.5.7 or older.
 
 ### Custom entity models
 

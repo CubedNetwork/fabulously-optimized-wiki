@@ -9,23 +9,23 @@
 
 #### Updating mods
 
-* If you are using a supported version of Fabulously Optimized and you haven't added any extra mods, **do not update any mods manually**, just update the modpack instead.
-    * If you did add extra mods, **update those individually** after you've ensured you're on latest version of Fabulously Optimized.
-    * Updating mods that are in FO may cause unexpected issues which FO releases would prevent, so manual updates only make your own life harder.
-* If you are using an unsupported (legacy) version of Fabulously Optimized, **you may carefully update the mods**.
+* If you are using a supported version of Fabulously Forgified and you haven't added any extra mods, **do not update any mods manually**, just update the modpack instead.
+    * If you did add extra mods, **update those individually** after you've ensured you're on latest version of Fabulously Forgified.
+    * Updating mods that are in FF may cause unexpected issues which FF releases would prevent, so manual updates only make your own life harder.
+* If you are using an unsupported (legacy) version of Fabulously Forgified, **you may carefully update the mods**.
     * Keep in mind that we haven't tested those updates, so you may run into issues and need to revert back to previous versions.
 * Some launchers have options to update all mods at once. **Do not use this feature** for reasons listed above.
-    * Even for legacy versions of FO, updating everything at once like that may cause problems like mod loader mismatch, Minecraft version mismatch, mod platform variances (more recent version on one platform vs another) and so on.
+    * Even for legacy versions of FF, updating everything at once like that may cause problems like mod loader mismatch, Minecraft version mismatch, mod platform variances (more recent version on one platform vs another) and so on.
     * It is always safer to update each mod individually so that you can see the update was successful and valid for your MC version/mod loader.
-* If you did any of the things above and are having issues, simply update Fabulously Optimized again.
-  * This will reset your mod list to the specified FO version ones, even if you used the same version of FO beforehand.
+* If you did any of the things above and are having issues, simply update Fabulously Forgified again.
+  * This will reset your mod list to the specified FF version ones, even if you used the same version of FF beforehand.
 
 ### CurseForge App
 
 If you haven't changed the mods:
 
 1. Select _Minecraft_ from the grid or sidebar
-2. On My Modpacks, right click _Fabulously Optimized_, then `⇄ Change Version`
+2. On My Modpacks, right click _Fabulously Forgified_, then `⇄ Change Version`
     * Don't see that option? Follow the other instructions below.
 3. Click `Continue`.
     * Optional: Select the version you want by selecting it on the dropdown before you click `Continue`.
@@ -35,7 +35,7 @@ If you haven't changed the mods:
 If you added or removed some mods:
 
 1. Select _Minecraft_ from the grid or sidebar
-2. On My Modpacks, click _Fabulously Optimized_
+2. On My Modpacks, click _Fabulously Forgified_
 3. Click `⫶`→ `Profile Options`
 4. Uncheck "Allow content management for this profile". 
     * This will not affect added content and you can re-enable content management after the update.
@@ -49,7 +49,7 @@ If you added or removed some mods:
 ### Modrinth App
 
 1. Go to `|||\` "Library"
-2. Select existing Fabulously Optimized instance
+2. Select existing Fabulously Forgified instance
 3. Click `⤓ Update modpack` on top right (Below `▶️ Play` and `+ Install content`)
 4. Select the version you want and click `⇆`.
   
@@ -69,7 +69,7 @@ If you added or removed some mods:
 
 ### Prism Launcher
 
-1. Select existing Fabulously Optimized instance
+1. Select existing Fabulously Forgified instance
 2. Click `Edit` on the sidebar
 3. Select `Modrinth` on the tab list
 4. Click `Update pack`
@@ -80,7 +80,7 @@ If you added or removed some mods:
 
 1. Click `Add Instance`
 2. Select `Modrinth` tab from the left
-3. Select "Fabulously Optimized"
+3. Select "Fabulously Forgified"
 4. Click `OK`
    * Optional: Select the version you want by selecting it on the dropdown before you click `OK`.
 5. The modpack will now install.
@@ -138,12 +138,12 @@ If there is a new Minecraft version:
 
 ### Minecraft Launcher (vanilla)
 
-1. Download [Fabulously Optimized Installer](https://download.fo/vanilla) and run it
+1. Download [Fabulously Forgified Installer](https://download.fo/vanilla) and run it
     * In most cases, you may also use the older version of the installer if you have it already.
     * Windows: Open the .exe file, click `More info` and then `Run anyway`.
     * macOS: See instructions below
     * Linux: Open the .appimage file and click `Run once` when prompted.
-3. Select preferred FO/Minecraft version and install
+3. Select preferred FF/Minecraft version and install
 4. Run Minecraft Launcher. You'll see the new installation, click PLAY.
 
 Note: you may now see a new file _paigaldaja_meta.json_ next to the installer. This is a configuration file that ensures smoother upgrades and remembers some of your install settings.
@@ -153,7 +153,7 @@ Note: you may now see a new file _paigaldaja_meta.json_ next to the installer. T
 
   #### macOS Sequoia 15 and later
   1. Open the downloaded .dmg file
-  2. Double-click the "Fabulously Optimized Installer". You will get a warning, press `Done`.
+  2. Double-click the "Fabulously Forgified Installer". You will get a warning, press `Done`.
   3. On your menubar, press Apple logo, then `System Settings`, then click `Privacy & Security` in the sidebar
   4. Scroll down on the right view, you should see the button `Open anyway`
   5. Enter your password or fingerprint. The installer should open.
@@ -161,7 +161,7 @@ Note: you may now see a new file _paigaldaja_meta.json_ next to the installer. T
 
   #### macOS Sonoma 14 and older
   1. Open the downloaded .dmg file
-  2. **Right click** the "Fabulously Optimized Installer" and click `Open`
+  2. **Right click** the "Fabulously Forgified Installer" and click `Open`
   3. Click `Open` again when asked in a prompt. The installer should open.
   4. Future launches of the same installer version open the installer directly on double-click.
 
@@ -181,11 +181,11 @@ Note: you may now see a new file _paigaldaja_meta.json_ next to the installer. T
    * If you got a prompt for popup windows or multiple downloads, please accept it - technical limitation.
 4. Open the zip file and copy **all folders** [(why?)](vanilla-launcher-faq.md#so-i-just-copy-the-mods-right) to your _.minecraft_ folder
    * If asked - replace the files.
-5. Recommended: delete `options.txt` to get [FO default settings](changed-options.md)
+5. Recommended: delete `options.txt` to get [FF default settings](changed-options.md)
     * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
     * If you choose not to do this, please at least enable bundled resource packs manually.
 6. Launch the installed Fabric profile
-7. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
+7. If you now see "Fabulously Forgified" in the right bottom corner, you're done!
 
 </details>
 
@@ -202,14 +202,14 @@ Note: you may now see a new file _paigaldaja_meta.json_ next to the installer. T
   4. Click the version you need, then click "Additional files"
   5. Click `⋮` → `Download file` on the latest **MultiMC version**
      * If you see less than 10 mods in the zip, you downloaded the wrong version.  
-  6. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_
+  6. Open the zip file, go to _Fabulously Forgified x.x.x_ > _minecraft_
   7. Open the zip file and copy **all folders** [(why?)](vanilla-launcher-faq.md#so-i-just-copy-the-mods-right) from zip's _minecraft_ folder to your _.minecraft_ folder
      * If asked - replace the files.
-  8. Recommended: delete `options.txt` to get [FO default settings](changed-options.md)
+  8. Recommended: delete `options.txt` to get [FF default settings](changed-options.md)
      * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
      * If you choose not to do this, please at least enable bundled resource packs manually.
   9. Launch the installed Fabric profile
-  10. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
+  10. If you now see "Fabulously Forgified" in the right bottom corner, you're done!
 
 </details>
 
@@ -231,7 +231,7 @@ However, at some point you may still want to do that in order to get the latest 
    * Minecraft Launcher: click `Installations` → hover on the instance → click `📁`
 2. Delete the `config` folder
    * If you prefer, also delete `options.txt` which stores vanilla options
-3. Download [your version of FO again from Modrinth](https://modrinth.com/modpack/fabulously-optimized/versions)
+3. Download [your version of FF again from Modrinth](https://modrinth.com/modpack/fabulously-optimized/versions)
 4. Rename the file to `pack.zip`
 5. Open the file you renamed, go to `overrides`
 6. Copy/extract the folder `configs` out to the modpack folder you previously opened

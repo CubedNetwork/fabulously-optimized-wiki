@@ -20,7 +20,7 @@ Notes:
 ### CurseForge App
 
 1. Open CurseForge App
-2. Go to `My Modpacks`, click on Fabulously Optimized
+2. Go to `My Modpacks`, click on Fabulously Forgified
 3. Click on the three dots, select `Profile Options`
 4. Check "Allow content management for this profile", click `Done`
 5. Find the mod you need, toggle the knob.
@@ -29,20 +29,20 @@ Notes:
 
 1. Open Modrinth App
 2. Open `|||\` "Library"
-3. Click on Fabulously Optimized
+3. Click on Fabulously Forgified
 4. Find the mod you need, toggle the knob.
 
 ### Prism Launcher
 
 1. Open Prism Launcher
-2. Click on Fabulously Optimized, then `Edit`
+2. Click on Fabulously Forgified, then `Edit`
 3. Go to `Mods`
 4. Find the mod you need, uncheck the checkbox.
 
 ### MultiMC
 
 1. Open MultiMC
-2. Click on Fabulously Optimized, then `Edit Instance`
+2. Click on Fabulously Forgified, then `Edit Instance`
 3. Go to `Loader mods`
 4. Find the mod you need, uncheck the checkbox.
 

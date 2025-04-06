@@ -1,8 +1,8 @@
 # Changed options
 
-Fabulously Optimized changes some default options of Minecraft to improve your gameplay.
+Fabulously Forgified changes some default options of Minecraft to improve your gameplay.
 
-Because the pack is using YOSBR, the options will only change if you do not have `options.txt` or mod-specific files in `config` folder already, e.g. by using a clean profile. That also means you can freely update the pack without losing your settings!
+Because the pack is using a custom NeoForge fork of YOSBR, the options will only change if you do not have `options.txt` or mod-specific files in `config` folder already, e.g. by using a clean profile. That also means you can freely update the pack without losing your settings!
 
 **P.S. This table has 5 columns. Scroll right if you can't see them!**
 
@@ -12,18 +12,18 @@ Because the pack is using YOSBR, the options will only change if you do not have
 | - | - | - | - | - |
 | advancedItemTooltips | Enables ["advanced" tooltip info](https://www.online-tech-tips.com/wp-content/uploads/2021/01/Armor-Tooltips-610x571.png) on items - item ID and durability, and exact color hex code for dyed armor | false | true | These are useful for much more than just debugging - if you're using commands, want to know the exact durability value, learning English, etc. Plus, this setting is hidden in the debug menu, so many people might not know about it. |
 | darkMojangStudiosBackground | Makes the Mojang Studios splash screen white-on-black instead of white-on-red | false | true | Black background is less intrusive than red, partial Bedrock Edition parity |
-| enableVsync | Toggle [VSync](https://en.wikipedia.org/wiki/Screen_tearing#Vertical_synchronization), a FPS-limiting system | true | false | Disabling VSync by default helps users instantly see the benefits of FO, reduces input lag and increases framerate when using shaders. The benefits of enabling or disabling it vary by system; also note that FO has an option to use Adaptive VSync on some systems. |
+| enableVsync | Toggle [VSync](https://en.wikipedia.org/wiki/Screen_tearing#Vertical_synchronization), a FPS-limiting system | true | false | Disabling VSync by default helps users instantly see the benefits of FF, reduces input lag and increases framerate when using shaders. The benefits of enabling or disabling it vary by system; also note that FF has an option to use Adaptive VSync on some systems. |
 | guiScale | Size of the menu and interface elements | 0 | 3 | 3 is more usable on most screens, 0 (Auto) can get too large on Full HD and larger screens, including most Macs' "Retina" displays |
-| incompatibleResourcePacks | A list of resource packs that have been forcefully enabled, despite being marked as incompatible | \[] | (varies) | Mod-provided resource packs that have old manifest version but are known to be compatible. Usually contains just [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)'s resource packs, but values may vary by FO version. |
+| incompatibleResourcePacks | A list of resource packs that have been forcefully enabled, despite being marked as incompatible | \[] | (varies) | Mod-provided resource packs that have old manifest version but are known to be compatible. Usually contains just [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)'s resource packs, but values may vary by FF version. |
 | joinedFirstServer | Whether to display the hint for [Social Interactions](https://minecraft.wiki/w/Social\_Interactions\_screen) | false | true | I expect my users to already know that Social Interactions can be opened with `P`; the screen is easily discoverable by the "Player Reporting" button |
 | maxFps | The maximum framerate | 120 | 260 | 260 means "unlimited", which allows you to see the full FPS that your system is capable of |
-| onboardAccessibility | Indicates whether the user has not seen the accessibility onboarding screen | true | false | Minecraft already has an easily accessible accessibility button in the main menu, this screen just creates annoyances for the majority who don't need it. [Read more about accessibility in FO](accessibility.md) |
+| onboardAccessibility | Indicates whether the user has not seen the accessibility onboarding screen | true | false | Minecraft already has an easily accessible accessibility button in the main menu, this screen just creates annoyances for the majority who don't need it. [Read more about accessibility in FF](accessibility.md) |
 | operatorItemsTab | Shows operator-only items (command blocks, lights, barriers, etc.) in a Creative inventory tab, when you have operator access (`/op`) | false | true | It is useful and it only appears when you have the permission for it, so it's weird Mojang even made it an option |
-| resourcePacks | Adjusts which resource packs are enabled by default | \[] | ¹ | Enabled [mod-provided and FO-exclusive resource packs](#resource-packs) by default |
+| resourcePacks | Adjusts which resource packs are enabled by default | \[] | ¹ | Enabled [mod-provided and FF-exclusive resource packs](#resource-packs) by default |
 | lang | Adjusts the game's language | en_us | (your OS language) | Enables user's system language by default, for usability, accessibility and discoverability purposes - courtesy of [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload). Not available for all launchers and operating systems. |
 | simulationDistance | Redstone and mob spawning distance | 12 | 6 | Better performance regardless of the rendering distance you use |
 | skipMultiplayerWarning | Whether to skip [the legal disclaimer](https://minecraft.wiki/w/File:Multiplayer\_disclaimer.png) when opening the multiplayer screen | false | true | Users are already expected to know that the third party servers are not owned or monitored by Mojang Studios or Microsoft. |
-| telemetryOptInExtra | Sets the telemetry (analytics data collection) toggle to "minimal". | false | false | While "minimal" is the default right now anyway, it may not always be the case, hence the enforcement by FO. [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) is used to disable it entirely though, so this is also just a fallback. |
+| telemetryOptInExtra | Sets the telemetry (analytics data collection) toggle to "minimal". | false | false | While "minimal" is the default right now anyway, it may not always be the case, hence the enforcement by FF. [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) is used to disable it entirely though, so this is also just a fallback. |
 | tutorialStep | The next step of [tutorial hints](https://minecraft.wiki/w/Tutorial\_hints) | movement | none | If you know how to install a modpack, you probably don't need those tutorials anymore |
 
 ¹ `["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip"]`
@@ -60,9 +60,9 @@ As of 1.20.2, Minecraft does not have an option to fully disable telemetry, so i
 
 ### Resource packs
 
-Fabulously Optimized enables relevant mod-provided resource packs and bundles some resource packs for better experience.
+Fabulously Forgified enables relevant mod-provided resource packs and bundles some resource packs for better experience.
 
-- [Mod Menu Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Mod%20Menu%20Helper) (FO-exclusive) - explains what each mod does in a consistent and clear way on Mod Menu
+- [Mod Menu Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Mod%20Menu%20Helper) (FF-exclusive) - explains what each mod does in a consistent and clear way on Mod Menu
 - [Chat Reporting Helper](https://www.curseforge.com/minecraft/texture-packs/chat-reporting-helper) - explains [chat reporting](chat-reporting-faq.md) in a clear way by simplifying vanilla and No Chat Reports tooltips and No Chat Reports icons
 - [Fast Better Grass](https://www.curseforge.com/minecraft/texture-packs/fast-better-grass) - imitates OptiFine's "Better Grass" (fast mode)
 - [Translations for Sodium](https://www.curseforge.com/minecraft/texture-packs/translations-for-sodium) - adds unofficial translations for Sodium (video settings)
@@ -71,7 +71,7 @@ The resource packs use minimal resources, [can be translated to your language](l
 
 ### Fixed bugs
 
-Fabulously Optimized includes some mods that fix vanilla bugs.
+Fabulously Forgified includes some mods that fix vanilla bugs.
 [Similar to the mod inclusion policy](principles.md), they must be meaningful to 70%+ users to get enabled (e.g. FPS drops, crashes, platform-specific annoyances...).
 
 | Mojang bug                                            | Description                                                                | Fixed by                                                                  |
@@ -100,13 +100,13 @@ If you'd like to enable more bugfixes for your game, see [the fixed bug list for
 
 #### Requesting a bugfix
 
-Want to get a bug fixed in Fabulously Optimized? Here's what you'll need to do:
+Want to get a bug fixed in Fabulously Forgified? Here's what you'll need to do:
 
 1. Find the actual bug [in Mojang's bug tracker](https://bugs.mojang.com/projects/MC/issues?filter=allopenissues)
 2. Request it or look at its status on [Debugify's bug tracker](https://github.com/W-OVERFLOW/Debugify/issues)
-3. Once implemented (or confirmed to be) in Debugify, [request an option change in FO](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/new?assignees=\&labels=option\&template=setting-request.yml)
+3. Once implemented (or confirmed to be) in Debugify, [request an option change in FF](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/new?assignees=\&labels=option\&template=setting-request.yml)
 4. Describe the bug, mention the mod that fixes it and why it is important to 70-80% of users
-5. If accepted, expect the fix to be enabled in the next version of FO :)
+5. If accepted, expect the fix to be enabled in the next version of FF :)
 
 ### Configuring mods
 

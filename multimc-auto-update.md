@@ -27,7 +27,7 @@ It does _not_ auto-update the individual mods outside of what is set in the the 
 ### So why did you make this at all?
 
 * Because MultiMC doesn't have this yet, see their issues [#2640](https://github.com/MultiMC/MultiMC5/issues/2640) and [#3037](https://github.com/MultiMC/MultiMC5/issues/3057)
-* Because the developer is planning to make an installer using the same system for the vanilla launcher as well, which I definitely want for FO
+* Because the developer is planning to make an installer using the same system for the vanilla launcher as well, which I definitely want for FF
 * Because it was suggested for this pack previously, where an user wanted to upgrade without needing to have a separate profile
 
 ### What happens if a new version of Minecraft is released?

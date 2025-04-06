@@ -6,7 +6,7 @@ OptiFine-compatible shaders are supported by default using [Iris](https://modrin
 
 #### Installation
 
-1. Open Minecraft with Fabulously Optimized installed
+1. Open Minecraft with Fabulously Forgified installed
 2. Open `Options...` → `Video Settings...` → `Shader Packs...`
 3. Download any shader pack from [Modrinth](https://modrinth.com/shaders?g=categories%3A%27iris%27) or [CurseForge](https://www.curseforge.com/minecraft/search?page=1&pageSize=20&sortType=1&class=shaders)
 4. Drag the ZIP file into the shader pack screen
@@ -25,7 +25,7 @@ Looking for OptiFine's internal shaders? Try [internal-shaders](https://modrinth
 
 ### Fabulous shaders
 
-"Fabulous shaders" are vanilla shaders that work by enabling _Fabulous!_ graphics in video settings and getting a specific resource pack. _May or may not work in FO._
+"Fabulous shaders" are vanilla shaders that work by enabling _Fabulous!_ graphics in video settings and getting a specific resource pack. _May or may not work in FF._
 
 * [Fabulousity shader resource pack](https://github.com/ScottoMotto/Fabulousity#fabulousity)
 
@@ -48,7 +48,7 @@ Looking for OptiFine's internal shaders? Try [internal-shaders](https://modrinth
 
 ### Core shaders
 
-"Core shaders" are a kind of vanilla shaders utilized by resource packs to adjust the vanilla HUD and add special effects to specific blocks. These usually do _not_ change landscapes overall and _may or may not work in FO._
+"Core shaders" are a kind of vanilla shaders utilized by resource packs to adjust the vanilla HUD and add special effects to specific blocks. These usually do _not_ change landscapes overall and _may or may not work in FF._
 
 Examples of working core shaders of [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/):
 * Translucent Spyglass Overlay
@@ -78,7 +78,7 @@ Luckily those features can be replicated with [OptiFine shaders](#optifine-shade
 
 [Canvas Renderer](https://www.curseforge.com/minecraft/mc-mods/canvas-renderer) is a mod that provides a new type of shaders that may be better optimized for powerful computers. 
 
-Canvas shaders are **not supported by default on FO**. By replacing some mods, you can still make them work, however.
+Canvas shaders are **not supported by default on FF**. By replacing some mods, you can still make them work, however.
 
 <details>
 

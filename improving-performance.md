@@ -1,6 +1,6 @@
 # Improving performance
 
-Fabulously Optimized consists of mods and settings that aim to improve performance for most devices. But sometimes you need more targeted optimizations, this page describes some of those.
+Fabulously Forgified consists of mods and settings that aim to improve performance for most devices. But sometimes you need more targeted optimizations, this page describes some of those.
 
 ## Video settings
 
@@ -11,7 +11,7 @@ Fabulously Optimized consists of mods and settings that aim to improve performan
    * [See this article for more info](https://www.howtogeek.com/853225/what-is-vsync-and-should-you-enable-it/)
 * Max framerate - similar to Vsync, but instead of being automatic, you control the maximum frame rate.
 * Weather/leaves - using the "fast" mode may give you a better experience. It is advised to change these separately and keep Graphics on "fancy".
-* Particles - FO allows you to either reduce the rate of particles (all/decreased/minimal) or toggle the ones individually.
+* Particles - FF allows you to either reduce the rate of particles (all/decreased/minimal) or toggle the ones individually.
 * Entity distance - unlike simulation distance, this affects just the distance where you _see_ the mobs, which means it also works in multiplayer.
 
 Hint: the tooltips of the options usually give you good info on the impact and the effects of each option.
@@ -36,7 +36,7 @@ Click the link for a tutorial that is made for your launcher.
 
 ## Dedicated GPU
 
-Own a gaming computer? Follow these instructions to ensure your computer will take full advantage of FO's optimizations.
+Own a gaming computer? Follow these instructions to ensure your computer will take full advantage of FF's optimizations.
 
 Before changing any settings, ensure your drivers are up to date:
 
@@ -54,11 +54,11 @@ And these instructions tell you how to enable specific optimizations or make the
 * [MSI AfterBurner](https://www.msi.com/support/technical_details/VGA_MSI_Utility_AfterBurner)
 * On Linux, Intel and AMD GPUs usually do not need additional configuration, but ensure your system is up to date.
 
-Please note that Fabulously Optimized moderators may not have these graphics cards and as such may not be help you with this. You can search online or ask in a community such as [Fabric Discord](https://discord.gg/v6v4pMv).
+Please note that Fabulously Forgified moderators may not have these graphics cards and as such may not be help you with this. You can search online or ask in a community such as [Fabric Discord](https://discord.gg/v6v4pMv).
 
 ## Additional mods
 
-Mods that may improve performance in specific scenarios, but are not necessarily stable or relevant to be included in FO itself. No guarantees and no support is provided by FO for these mods.
+Mods that may improve performance in specific scenarios, but are not necessarily stable or relevant to be included in FF itself. No guarantees and no support is provided by FF for these mods.
 
 * [Nvidium](https://modrinth.com/mod/nvidium) - improves performance with NVIDIA GPUs, as long as you don't use shaders
 * [Methane](https://modrinth.com/mod/methane) - optimizes the game by removing light calculations, aka using the "fullbright" effect

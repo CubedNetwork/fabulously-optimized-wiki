@@ -17,13 +17,13 @@ I support people using Minecraft in their language and would like to promote tha
    * `"coolmod.config.title": "Coolmod Options",`
 9. Commit the file and create a pull request. If you're lucky, the mod author accepts it
 10. If the language has been accepted, wait for the mod author to update their mod on CurseForge
-11. Once the mod has been updated on CurseForge, simply wait for the next Fabulously Optimized update to see it :P
+11. Once the mod has been updated on CurseForge, simply wait for the next Fabulously Forgified update to see it :P
 
 ### Notable mods to translate
 
 List of mods that contribute the most viewed phrases in the modpack, click to get to their English language file/translation platform.
 
-1. [Sodium](https://crowdin.com/project/sodium-fabric) (unofficial, but bundled in FO)
+1. [Sodium](https://crowdin.com/project/sodium-fabric) (unofficial, but bundled in FF)
 2. [Sodium Extra](https://crowdin.com/project/sodium-extra)
 3. [Iris Shaders](https://github.com/IrisShaders/Iris/blob/multiloader-new/common/src/main/resources/assets/iris/lang/en_us.json)
 4. [MoreCulling](https://github.com/FxMorin/MoreCulling/blob/master/common/src/main/resources/assets/moreculling/lang/en_us.json) (appears in Video Settings)
@@ -46,9 +46,9 @@ Fabulously Optimized [is translated on Crowdin](https://crowdin.com/project/fabu
    * File-specific tips and requirements [are listed below](#mod-menu-helper)
 3. [Join our Discord](https://fabulously-optimized.github.io/discord) for a yellow rank and a possibility to become a proofreader in your language.
    * Yellow rank requirement is translating any file to 100%; it also gives you access to some hidden channels ;)
-4. As a proofreader, read over every string, [test MMH in-game](#testing-tutorial) and approve ✔️ everything that looks correct. **Any file must be 100% approved before it gets pushed to FO.**   
+4. As a proofreader, read over every string, [test MMH in-game](#testing-tutorial) and approve ✔️ everything that looks correct. **Any file must be 100% approved before it gets pushed to FF.**   
    * For example, if you fully translate two files but fully approve one, then only the fully approved file will be published at the moment.
-6. Wait for the next release of FO to see your translations live!
+6. Wait for the next release of FF to see your translations live!
 7. You'll get an email and/or Discord notification when there are new phrases to translate. Then just repeat from step 3!
 
 ### Mod Menu Helper
@@ -70,7 +70,7 @@ Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and
 2. Select `Mod Menu Helper`
 3. Click `≡` on the left, then `Download`. You'll get a file in the format _language_code.json_.
    * Is the button grayed out? Make sure you're browsing "Mod Menu Helper", not "all strings".
-4. Run Fabulously Optimized
+4. Run Fabulously Forgified
 5. Go to `Options...` → `Resource Packs...` → `Open Pack Folder`
 6. Open `Mod Menu Helper.zip` → `assets` → `fo` → `lang`
    * On macOS, opening the ZIP will create a new folder, so open that one.
@@ -101,12 +101,12 @@ Bundled resource pack "Fast Better Grass" imitates the OptiFine's Better Grass' 
 
 ### Sodium
 
-Unofficial resource pack that adds translations to Sodium. Managed by the creator of Fabulously Optimized and the creator of Sodium Extra, but is an independent project.
+Unofficial resource pack that adds translations to Sodium. Managed by the creator of Fabulously Forgified and the creator of Sodium Extra, but is an independent project.
 
 * [Translated on Crowdin](https://crowdin.com/project/sodium-fabric)
-* Translations are published every Saturday, so any FO version to come after that will get it.
+* Translations are published every Saturday, so any FF version to come after that will get it.
 * Translations do not require approval to be published, however proofreading would still be preferred to ensure quality.
-* You are more likely to be accepted as a proofreader if you have previous translation work on FO or other Minecraft-related projects.
+* You are more likely to be accepted as a proofreader if you have previous translation work on FF or other Minecraft-related projects.
 
 ### Installer
 
@@ -125,7 +125,7 @@ The new website is almost entirely localizable.
 
 #### Testing tutorial
 
-1. Translate and approve to 100% on FO Crowdin's folder "Website"
+1. Translate and approve to 100% on FF Crowdin's folder "Website"
 2. Go to [the website's GitHub and click on "New Crowdin updates" pull request](https://github.com/Fabulously-Optimized/fabulously-web/pulls?q=is%3Apr+is%3Aopen+New+Crowdin+updates)
    * Can't see it? Ensure your translation is 100% approved and try again later.
 3. Scroll down to find a comment by the user `vercel`. Click `Visit Preview` on that comment.
